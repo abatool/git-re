@@ -38,11 +38,11 @@ Once the all three container are running you can access your wordpress typing yo
 
 ### Examples:
 
-wpdev run -d manager.swarm.asix
+**wpdev run -d manager.swarm.asix**
 
 Creates and starts the three containers and with -d  option we are setting the manager.swarm.asix used to access the development environment but the default one is localhost.
 
-wpdev start
+**wpdev start**
 
 Starts all three container if they are stopped.
 
